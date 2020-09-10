@@ -1,0 +1,24 @@
+{
+  "name": "excel-project",
+  "version": "1.0.0",
+  "description": "javascript excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antbelogurov/excel-project.git"
+  },
+  "keywords": [
+    "js",
+    "jvascript",
+    "excel"
+  ],
+  "author": "Anton Belogurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antbelogurov/excel-project/issues"
+  },
+  "homepage": "https://github.com/antbelogurov/excel-project#readme"
+}
